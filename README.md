@@ -56,7 +56,7 @@ An analysis of the customer's credit scores, extracting statistics (mean, median
 After merging your receipt request to done, you can delete a branch from yours.
 
 ## [](#license):memo: License
-This project is under the MIT license. See the [LICENSE]([[https://github.com/robertosousa1/credit-score-analysis/blob/master/LICENSE](https://github.com/robertosousa1/credit-score-analysis/blob/master/LICENSE)]) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/robertosousa1/credit-score-analysis/blob/master/LICENSE) for more information.
 
 ----------
 
